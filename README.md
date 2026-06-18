@@ -231,6 +231,4 @@ Diagnostic plots are in the `images/` folder, including:
 - Reconcile the notebook and `backtrader` parameters and add out-of-sample / walk-forward testing.
 - Wire the strategy into the Interactive Brokers connection for paper trading on the actual ETF pair.
 
-## License
 
-No license file is included in the repository. Without one, default copyright applies and reuse rights are unspecified. If you intend this to be open source, add a `LICENSE` file (for example MIT) to make the terms explicit.
